@@ -1,0 +1,337 @@
+{
+  "name": "github-bounty-honeypot-blocklist",
+  "updated": "2026-11-26T22:27:52.088Z",
+  "count": 66,
+  "entries": [
+    {
+      "repo": "paraloom-labs/paraloom-core",
+      "category": "fixed_at_head",
+      "reason": "Bug already fixed at HEAD; issue stale"
+    },
+    {
+      "repo": "devqwinb/verity#348",
+      "category": "already_assigned",
+      "reason": "Bot comment confirms assigned to another contributor"
+    },
+    {
+      "repo": "limitlessprojects/go-hybrid",
+      "category": "honeypot_cluster",
+      "reason": "Mass wildcard \"💎 Bounty\" issues, no payout rail"
+    },
+    {
+      "repo": "zhangjiayang6835-cyber/bounty-plaza",
+      "category": "honeypot_cluster",
+      "reason": "Mass-generated wildcard bounty issues"
+    },
+    {
+      "repo": "IES-BoilerRoom/bounty-plaza",
+      "category": "honeypot_cluster",
+      "reason": "Same org as bounty-plaza cluster"
+    },
+    {
+      "repo": "IES-BoilerRoom/vllm-paged-kv-verifier",
+      "category": "honeypot_cluster",
+      "reason": "Mass-generated wildcard $-bounty issues"
+    },
+    {
+      "repo": "IES-BoilerRoom/cpython-pep626-line-profiler",
+      "category": "honeypot_cluster",
+      "reason": "Mass-generated wildcard $-bounty issues"
+    },
+    {
+      "repo": "IES-BoilerRoom/zk-plonk-transcript-verifier",
+      "category": "honeypot_cluster",
+      "reason": "Identical title signature to other cluster repos"
+    },
+    {
+      "repo": "code-423n4/renegade-bug-bounty",
+      "category": "honeypot_cluster",
+      "reason": "Same embedded payout address as unrelated protocol repo"
+    },
+    {
+      "repo": "code-423n4/moonwell-bug-bounty",
+      "category": "honeypot_cluster",
+      "reason": "Same embedded payout address as unrelated protocol repo"
+    },
+    {
+      "repo": "securebananalabs/bug-bounty",
+      "category": "issue_farm",
+      "reason": "Body: \"limited only to the creator of this issue\"; 1400+ comments"
+    },
+    {
+      "repo": "javelin-anticheat/py-workedtask",
+      "category": "honeypot",
+      "reason": "$10K labels but no algora funding comment; 12+ competitor claims"
+    },
+    {
+      "repo": "Fractal-Neurons/pacta",
+      "category": "issue_farm",
+      "reason": "Bot-generated \"Bounty Encontrado en Web3\" template linking to itself"
+    },
+    {
+      "repo": "outerbase/starbasedb",
+      "category": "already_paid",
+      "reason": "Algora award comment: $250 already paid to another user"
+    },
+    {
+      "repo": "penguinpecker/merge-to-pay",
+      "category": "self_play_harness",
+      "reason": "Duplicate self-test issues, no explicit payout, dormant repo"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "category": "no_payer",
+      "reason": "Reward address belongs to the reporter, not a payer"
+    },
+    {
+      "repo": "madin-ll/bounty-pipeline-e2e-verify",
+      "category": "test_harness",
+      "reason": "E2E test harness; no algora funding evidence"
+    },
+    {
+      "repo": "bawes-universe/studenthub#55",
+      "category": "bounty_paused",
+      "reason": "Maintainer posted \"Bounty Paused\"; PR already merged with reward"
+    },
+    {
+      "repo": "aeyakovenko/percolator-cli#106",
+      "category": "already_claimed",
+      "reason": "Round-1 pot claimed on-chain; market closed"
+    },
+    {
+      "repo": "Ayush441-python/AUREN",
+      "category": "issue_farm",
+      "reason": "100 open PRs / 1 merged, stars=1, forks=51 (fork-farm signature)"
+    },
+    {
+      "repo": "sorowork/sorowork-contracts",
+      "category": "non_evm_payout",
+      "reason": "USDC paid on Stellar/Soroban, not EVM"
+    },
+    {
+      "repo": "paraspell/xcm-tools",
+      "category": "non_evm_payout+ai_ban",
+      "reason": "Polkadot Asset Hub payout + explicit \"not opened by an AI agent\""
+    },
+    {
+      "repo": "superteam-earn/*",
+      "category": "human_only_gate",
+      "reason": "HUMAN_ONLY access + mandatory X/Discord follow steps"
+    },
+    {
+      "repo": "Scottcjn/rustchain-bounties",
+      "category": "non_cash",
+      "reason": "README: does not pay USD/USDC/BTC; token has no cash-out"
+    },
+    {
+      "repo": "mergit.xyz",
+      "category": "testnet",
+      "reason": "\"This is a test network, so the ETH is practice money\""
+    },
+    {
+      "repo": "tradermarketcap/tradermarketcap",
+      "category": "non_cash",
+      "reason": "Reward is project tokens; requires non-EVM Trac address"
+    },
+    {
+      "repo": "getontesting/bcelo#1",
+      "category": "non_cash",
+      "reason": "Reward is 5,000 XP points"
+    },
+    {
+      "repo": "unsafelabs/bounty-hunters#864",
+      "category": "prompt_injection_trap",
+      "reason": "Acceptance criteria demand exfiltration of env/file contents"
+    },
+    {
+      "repo": "rroland10/dex223-bug-bounty",
+      "category": "no_payout",
+      "reason": "No cash amount or 0x payout address in body"
+    },
+    {
+      "repo": "karpatkey/onchain-accounting",
+      "category": "no_bounty",
+      "reason": "No bounty program at all"
+    },
+    {
+      "repo": "hanzoai/vfs",
+      "category": "hardware_required",
+      "reason": "Requires GPU/NVMe benchmarking on vendor hardware"
+    },
+    {
+      "repo": "xhtoken/spark-x2.6#32",
+      "category": "competition_gpu",
+      "reason": "Single-winner contest requiring local 4B model run"
+    },
+    {
+      "repo": "bshelby88/raen-bounties",
+      "category": "non_cash",
+      "reason": "Reward is a 30-day subscription, not cash"
+    },
+    {
+      "repo": "yldfi/yldfi-rs#338",
+      "category": "no_payout",
+      "reason": "Body is a release changelog, no cash payout"
+    },
+    {
+      "repo": "stabilitynexus/chainvoice#387",
+      "category": "testnet",
+      "reason": "Sepolia testnet bug; 0x address is a token contract"
+    },
+    {
+      "repo": "almanak-co/sdk#63",
+      "category": "no_payout",
+      "reason": "Unpaid bug report; 0x addresses are reporter wallets"
+    },
+    {
+      "repo": "tosnetwork/tos#516",
+      "category": "no_payout",
+      "reason": "Unpaid spec/docs task, no bounty amount"
+    },
+    {
+      "repo": "defillama/dimension-adapters#11355",
+      "category": "no_payout",
+      "reason": "Open-source adapter submission, unpaid"
+    },
+    {
+      "repo": "tradermarketcap/tradermarketcap",
+      "category": "non_cash",
+      "reason": "Token-denominated reward"
+    },
+    {
+      "repo": "rango-exchange/rango-sdk#99",
+      "category": "not_a_bounty",
+      "reason": "Partnership pitch, not a bounty"
+    },
+    {
+      "repo": "neilkpatel/whatagentsbuy#18",
+      "category": "not_a_bounty",
+      "reason": "Third-party seller submission form"
+    },
+    {
+      "repo": "MisakaNet/*",
+      "category": "zero_bounty",
+      "reason": "Body states verbatim \"zero-bounty task: $0\""
+    },
+    {
+      "repo": "xeprotocol/xe#838",
+      "category": "non_cash",
+      "reason": "Reward in project token to non-EVM address"
+    },
+    {
+      "repo": "neurowealth/backend#923",
+      "category": "no_payout",
+      "reason": "No explicit cash payout; already claimed"
+    },
+    {
+      "repo": "ttswap/ttswap-core",
+      "category": "no_payout",
+      "reason": "No cash amount/0x address; reporter finding"
+    },
+    {
+      "repo": "hanzoai/engine#50",
+      "category": "hardware_required",
+      "reason": "Closed; GPU benchmark matrix required"
+    },
+    {
+      "repo": "meapy/do-damage#78",
+      "category": "not_a_bounty",
+      "reason": "Closed; game changelog, no bounty"
+    },
+    {
+      "repo": "hugo0/swarmmemo#77",
+      "category": "fixed_at_head",
+      "reason": "Fix already landed on main by maintainer"
+    },
+    {
+      "repo": "fairvenue/fairvenue-agent-kit#43",
+      "category": "testnet",
+      "reason": "Testnet owner address; hackathon attribution only"
+    },
+    {
+      "repo": "ahmardchain/climb#1",
+      "category": "honeypot_cluster",
+      "reason": "Identical \"Arc bounty / EURC funding preview\" template"
+    },
+    {
+      "repo": "kryptoholik1/arc_circle#1",
+      "category": "honeypot_cluster",
+      "reason": "Identical \"Arc bounty / EURC funding preview\" template"
+    },
+    {
+      "repo": "maxfain/basedagents#212",
+      "category": "honeypot_cluster",
+      "reason": "Identical \"Arc bounty / EURC funding preview\" template"
+    },
+    {
+      "repo": "sofiia7/arc#50",
+      "category": "honeypot_cluster",
+      "reason": "Identical \"Arc bounty / EURC funding preview\" template"
+    },
+    {
+      "repo": "agent-forge-hb.fly.dev/r/starfall-21",
+      "category": "bad_roi",
+      "reason": "$0.75 payout requiring unverified signed-push ceremony"
+    },
+    {
+      "repo": "gofrantic.com",
+      "category": "board_exhausted",
+      "reason": "All enumerated bounties paid/closed; zero open"
+    },
+    {
+      "repo": "X402blockchains/x402-registry#50",
+      "category": "free_listing",
+      "reason": "Free directory listing, $0 payout, unbounded polish"
+    },
+    {
+      "repo": "superteam-earn/nosa-feedback",
+      "category": "human_only_gate",
+      "reason": "Requires Discord bot interaction + screenshots"
+    },
+    {
+      "repo": "superteam-earn/oobe-capital-agent",
+      "category": "capital_required",
+      "reason": "Requires funding wallet with >=20 USDC + X posts"
+    },
+    {
+      "repo": "superteam-earn/anna-ai-x-thread",
+      "category": "human_only_gate",
+      "reason": "HUMAN_ONLY + mandatory X follows"
+    },
+    {
+      "repo": "miracle-alajemba/arclink#1",
+      "category": "unverifiable",
+      "reason": "Empty body fetch twice; payout unverifiable"
+    },
+    {
+      "repo": "van-network/van-community#2",
+      "category": "unverifiable",
+      "reason": "Fetch failed twice; payout unverifiable"
+    },
+    {
+      "repo": "intafaced/intafaced",
+      "category": "unverifiable",
+      "reason": "Payout eligibility unverifiable; stars=2"
+    },
+    {
+      "repo": "thejollylama/dlang#9",
+      "category": "not_a_bounty",
+      "reason": "Design proposal; 0x addresses are contracts"
+    },
+    {
+      "repo": "haoruilee/awesome-agent-native-services#385",
+      "category": "rejected",
+      "reason": "Maintainer closed twice with explicit refusal"
+    },
+    {
+      "repo": "Fractal-Neurons/pacta#118",
+      "category": "issue_farm",
+      "reason": "Self-referential bot template; personal wallets"
+    },
+    {
+      "repo": "Fractal-Neurons/pacta#161",
+      "category": "eligibility_gate",
+      "reason": "GitHub account age/eligibility gate"
+    }
+  ]
+}
